@@ -1,4 +1,4 @@
-![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/amabdallah/hs_restclient/master)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/amabdallah/hs_restclient/master)
 
 
 
